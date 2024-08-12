@@ -3,8 +3,8 @@ import { Box, useColorModeValue } from "@chakra-ui/react";
 import { Route, Routes } from 'react-router-dom'
 
 import Navbar from './components/Navbar.jsx'
-import CreatePage from './pages/createPage.jsx'
-import HomePage from './pages/homePage.jsx'
+import CreatePage from './pages/CreatePage.jsx'
+import HomePage from './pages/HomePage.jsx'
 
 function App() {
 
